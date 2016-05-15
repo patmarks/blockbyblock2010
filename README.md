@@ -13,9 +13,7 @@ Either keep the blockbyblock directory in the working directory, or move it to t
 This  notebook requires downloading each file for states of interest: 
 
 1. The [sf1](http://www2.census.gov/census_2010/04-Summary_File_1/) file.
-
 2. The [shapefile](http://www2.census.gov/geo/tiger/TIGER2010/TABBLOCK/2010/) tl_2010_xx_tabblock10.zip, where xx is the two digit [FIPS code](http://www.census.gov/geo/reference/ansi_statetables.html) for the state. 
-
 3. [Data Dictionary](https://www.socialexplorer.com/data/C2010/metadata/?ds=SF1) to reference the data. For example, 'P0010001' is the code for total population.
 
 ####CLASSES:
